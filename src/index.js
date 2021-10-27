@@ -10,12 +10,12 @@ const App = ()=>{
     return (
       <form onSubmit = {(e)=>{
         const s = +e.target[0].value;
-        if (s >= 5){
+        if (s >= 5 && s <= 30){
           setSize(s);
           setError("");
         }
         else {
-          setError("Min size: 5x5");
+          setError("Min size: 5x5. Max size: 30x30");
         } 
           e.preventDefault();
         }}>
