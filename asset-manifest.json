@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Caro-refactor/static/css/main.fc26f414.chunk.css",
-    "main.js": "/Caro-refactor/static/js/main.06c7b9bb.chunk.js",
-    "main.js.map": "/Caro-refactor/static/js/main.06c7b9bb.chunk.js.map",
+    "main.js": "/Caro-refactor/static/js/main.8ec87e50.chunk.js",
+    "main.js.map": "/Caro-refactor/static/js/main.8ec87e50.chunk.js.map",
     "runtime-main.js": "/Caro-refactor/static/js/runtime-main.b1407e86.js",
     "runtime-main.js.map": "/Caro-refactor/static/js/runtime-main.b1407e86.js.map",
     "static/js/2.bf338881.chunk.js": "/Caro-refactor/static/js/2.bf338881.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b1407e86.js",
     "static/js/2.bf338881.chunk.js",
     "static/css/main.fc26f414.chunk.css",
-    "static/js/main.06c7b9bb.chunk.js"
+    "static/js/main.8ec87e50.chunk.js"
   ]
 }
